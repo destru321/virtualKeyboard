@@ -11,13 +11,13 @@ body {
     height: 100vh;
 }
 
+body,
 .main,
 .main__keyboard {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    overflow: hidden;
 }
 
 .header,
